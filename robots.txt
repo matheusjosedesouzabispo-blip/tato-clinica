@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /assets/docs/
+
+Sitemap: https://www.tatoclinica.com.br/sitemap.xml
