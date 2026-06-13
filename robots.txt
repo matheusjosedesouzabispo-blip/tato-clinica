@@ -1,6 +1,9 @@
+# Tato Clínica — https://www.tatoclinica.com.br
+
 User-agent: *
 Allow: /
 
+# Documentação interna do projeto (não indexar)
 Disallow: /assets/docs/
 
 Sitemap: https://www.tatoclinica.com.br/sitemap.xml
