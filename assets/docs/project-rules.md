@@ -6,7 +6,7 @@ Este documento descreve o projeto de forma completa para que qualquer IA ou dese
 
 ## 1. O que é a Tato Clínica
 
-A **Tato Clínica** (nome formal: Clínica Tato Tecnologia Assistiva Terapia Ocupacional e Reabilitação Ltda.) é uma clínica interdisciplinar localizada em **Bauru/SP**, no bairro Vila Mesquita, na Rua Gerson França, 1177. Está em funcionamento **há 7 anos** no mesmo endereço.
+A **Tato Clínica** (nome formal: Clínica Tato Tecnologia Assistiva Terapia Ocupacional e Reabilitação Ltda.) é uma clínica interdisciplinar localizada em **Bauru/SP**, no bairro Vila Mesquita, na Rua Gerson França, 1177. Está em funcionamento **há mais de 10 anos** no mesmo endereço.
 
 O foco principal é o **neurodesenvolvimento** — atendimento a crianças, adolescentes e adultos com condições como autismo (TEA), TDAH, dificuldades de aprendizagem, atrasos de desenvolvimento, entre outros. O atendimento é humanizado, interdisciplinar e baseado em evidências científicas.
 
@@ -18,19 +18,19 @@ O foco principal é o **neurodesenvolvimento** — atendimento a crianças, adol
 
 ---
 
-## 2. Equipe (7 profissionais)
+## 2. Equipe
 
 | Nome | Especialidade | Registro | Áreas |
 |---|---|---|---|
-| Rosemaí N. Colombo | Terapeuta Ocupacional | CREFITO 2348-TO | Adulto e infantil · ortopedia e neurologia · órteses · tecnologia assistiva · Terapia da Mão |
-| Évelyn Raquel Benati | Terapeuta Ocupacional | CREFITO 10549-TO | Desenvolvimento infantil · aprendizagem escolar · estimulação cognitiva e precoce · integração sensorial |
-| Francine A. Olibone | Terapeuta Ocupacional | CREFITO 3-13668-TO | Neuropsicopedagogia · educação inclusiva · saúde mental · reorganização sensorial no autismo · neurodesenvolvimento |
-| Ana Carolina | Fisioterapeuta | CREFITO 3-178934-F | Estimulação precoce e intervenção infantil — Conceito Neuroevolutivo Bobath |
-| Larissa Helena Zani | Psicóloga | CRP 06/134371 | Doutora em Psicologia, Mestre em Educação Especial · ABA/PECS/TEACCH · avaliação diagnóstica para TEA |
-| Gabriela Teixeira | Psicóloga | CRP 06/13471 | Psicologia clínica para adultos e crianças · MBA em Gerontologia · urgência e emergência |
-| Eloá Tessaroli | Nutricionista | CRN 58438 | Nutrição materno-infantil (INADES) · alergias alimentares · introdução alimentar e seletividade |
+| Sandra Furquim | Musicoterapeuta | — | Saúde mental: ansiedade, depressão e estresse · TEA/TDAH/Síndrome de Down · estimulação cognitiva em idosos · reabilitação em atrasos do desenvolvimento infantil · apoio em dificuldades sensoriais, motoras e de linguagem · ABA para autismo · música e cognição · educação especial · neuropsicopedagogia · arteterapia · psicanálise |
+| Mariana Alcantara | Terapeuta Ocupacional | — | TEA · TDAH · Síndrome de Down · atrasos neuropsicomotores · dificuldades sensoriais, motoras e cognitivas · estimulação infantil · integração sensorial · AVDs · coordenação motora · funções executivas · autonomia · orientação familiar |
+| Diego Lima | Terapeuta Ocupacional | — | UFSCar · Integração Sensorial de Ayres · ABA · Bobath · TEA · TDAH · paralisia cerebral · Síndrome de Down · avaliação ocupacional · integração sensorial · orientação familiar |
+| Caroline Zucari | Fonoaudióloga | — | Mestre em Processos e Distúrbios da Comunicação · atraso de linguagem · transtornos de fala · TDAH · aprendizagem · leitura e escrita · consciência fonológica · avaliação fonoaudiológica · terapia de linguagem · orientação familiar |
+| Fernanda F. Monteiro | Fonoaudióloga | — | Transtorno motor oral · motricidade orofacial · disfagia · TEA · atraso de linguagem · transtornos de fala · PROFFI · CAA · bandagem elástica · terapia ABA · Terapia ReST |
+| Amanda Lacerda | Neuropsicopedagoga | — | TDAH · TEA · dislexia · discalculia · disgrafia · transtornos globais do desenvolvimento · avaliação neuropsicopedagógica · funções executivas · atenção e memória · plano de intervenção |
+| Dra. Livia Sperandio | Neuropsicóloga | — | TDAH · TEA · dificuldades de aprendizagem · deficiência intelectual · avaliação neuropsicológica · funcionamento cognitivo e comportamental · funções executivas · laudo e devolutiva |
 
-As fotos de cada profissional estão em `assets/img/` com o padrão de nome: `nome-equipe-tatoclinica-200x200.jpg`.
+As fotos de cada profissional ficam em `assets/img/` no padrão `nome-equipe-tatoclinica.webp` (com `.jpg` de fallback via `<picture>`). Cards com banner usam a classe `member--showcase`. O grid da equipe exibe **4 colunas** no desktop (igual à seção Valores), 2 no tablet e 1 no mobile.
 
 ---
 
@@ -39,7 +39,7 @@ As fotos de cada profissional estão em `assets/img/` com o padrão de nome: `no
 1. Avaliação Neuropsicológica
 2. Psicologia ABA (Análise do Comportamento Aplicada)
 3. Psicologia TCC (Terapia Cognitivo-Comportamental)
-4. Psiconeuropedagogia
+4. Psicopedagogia
 5. Neuropsicopedagogia
 6. Fonoaudiologia
 7. Terapia Ocupacional — ABA e Integração Sensorial
@@ -85,6 +85,7 @@ tato-clinica/
 │   └── img/
 │       ├── logo-fundo-claro-tatoclinica_.png
 │       ├── cartaz-tatoclinica.jpg
+│       ├── comemoracao-10-anos-tatoclinica.png
 │       ├── sobre-clinica-tatoclinica.jpg
 │       ├── sobre-historia-tatoclinica.jpg
 │       ├── equipe-colaboracao-tatoclinica.jpg
@@ -92,13 +93,20 @@ tato-clinica/
 │       ├── blog-thumb-aba-tatoclinica.jpg
 │       ├── blog-thumb-integracao-sensorial-tatoclinica.jpg
 │       ├── blog-thumb-familia-tatoclinica.jpg
-│       ├── rosemari-equipe-tatoclinica-200x200.jpg
-│       ├── evelin-raquel-equipe-tatoclinica-200x200.jpg
-│       ├── francine-equipe-tatoclinica-200x200.jpg
-│       ├── ana-carolina-equipe-tatoclinica-200x200.jpg
-│       ├── larissa-helena-equipe-tatoclinica-200x200.jpg
-│       ├── gabriela-teixeira-equipe-tatoclinica-200x200.jpg
-│       ├── eloa-equipe-tatoclinica-200x200.jpg
+│       ├── sandra-furquim-equipe-tatoclinica.webp
+│       ├── sandra-furquim-equipe-tatoclinica.jpg
+│       ├── mariana-alcantara-equipe-tatoclinica.webp
+│       ├── mariana-alcantara-equipe-tatoclinica.jpg
+│       ├── diego-lima-equipe-tatoclinica.webp
+│       ├── diego-lima-equipe-tatoclinica.jpg
+│       ├── caroline-zucari-equipe-tatoclinica.webp
+│       ├── caroline-zucari-equipe-tatoclinica.jpg
+│       ├── fernanda-monteiro-equipe-tatoclinica.webp
+│       ├── fernanda-monteiro-equipe-tatoclinica.jpg
+│       ├── amanda-lacerda-equipe-tatoclinica.webp
+│       ├── amanda-lacerda-equipe-tatoclinica.jpg
+│       ├── livia-sperandio-equipe-tatoclinica.webp
+│       ├── livia-sperandio-equipe-tatoclinica.jpg
 │       ├── favicon.ico
 │       ├── favicon-16x16.png
 │       ├── favicon-32x32.png

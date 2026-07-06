@@ -214,7 +214,7 @@ Além disso, no `script.js`, na linha que contém o array `['.areas__grid', '.va
 ## 6. Página: Sobre Nós (`sobre/index.html`)
 
 **`<title>`:** `Sobre Nós — Tato Clínica`
-**Meta description:** `Conheça a história, a missão e os valores da Tato Clínica — há 7 anos em Bauru/SP cuidando do desenvolvimento humano com ética, ciência e acolhimento.`
+**Meta description:** `Conheça a história, a missão e os valores da Tato Clínica — há mais de 10 anos em Bauru/SP cuidando do desenvolvimento humano com ética, ciência e acolhimento.`
 **Nav ativo:** link `/sobre/`
 **Wave do page-hero aponta para:** fundo branco (`var(--branco)`) — classe padrão
 
@@ -223,7 +223,7 @@ Além disso, no `script.js`, na linha que contém o array `['.areas__grid', '.va
 **1. Hero (`.page-hero`)**
 - Eyebrow: `Clínica Interdisciplinar · Bauru/SP`
 - Título (`.page-hero__title`): `Uma clínica feita de <em>cuidado</em> e propósito.`
-- Lead (`.page-hero__lead`): `Há 7 anos no coração da Vila Mesquita, acompanhamos cada história com dedicação, ciência e humanidade.`
+- Lead (`.page-hero__lead`): `Há mais de 10 anos no coração da Vila Mesquita, acompanhamos cada história com dedicação, ciência e humanidade.`
 - Deco hexágonos: usar as mesmas spans `.hex` decorativas do hero do `index.html` (hex--a, hex--b, hex--c, hex--ring)
 - Incluir `.page-hero__wave` ao final da section
 
@@ -233,14 +233,14 @@ Reaproveitar exatamente a seção de stats do `index.html` — três cards com d
 **3. Nossa História (`.sobre` + `.sobre__grid`)**
 Usar a mesma estrutura da seção `#sobre` do `index.html` com grid de 2 colunas. Imagem: `../assets/img/sobre-clinica-tatoclinica.jpg` com classe `.hexframe`. Adicionar `hexframe__accent` e o pseudo-elemento de anel roxo como está na home.
 - Eyebrow: `Nossa história`
-- Título: `Sete anos cuidando de quem importa.`
+- Título: `Mais de uma década cuidando de quem importa.`
 - Parágrafos de conteúdo:
   > Fundada em 2018 na Vila Mesquita, Bauru/SP, a Tato Clínica nasceu da crença de que cada pessoa — independente da sua condição neurológica, etapa da vida ou desafio de desenvolvimento — merece um cuidado integral, humanizado e baseado em ciência.
   >
   > O nome Tato vem da essência do nosso trabalho: tocar vidas com sensibilidade. Surgimos como uma clínica de Terapia Ocupacional e Tecnologia Assistiva, e ao longo dos anos fomos crescendo de forma orgânica, sempre seguindo as necessidades das famílias que atendemos e a dedicação dos profissionais que se juntaram à nossa equipe.
   >
   > Hoje somos uma clínica interdisciplinar com 8 áreas de atendimento integradas, um time de especialistas comprometidos e um único foco: contribuir para que cada paciente viva com mais autonomia, participação e qualidade de vida.
-- Pills: `Fundada em 2018` · `Vila Mesquita, Bauru/SP` · `8 especialidades` · `Atendimento para todas as idades`
+- Pills: `Mais de 10 anos no endereço` · `Vila Mesquita, Bauru/SP` · `8 especialidades` · `Atendimento para todas as idades`
 
 **4. Missão e Visão (`.purpose`)**
 Reaproveitar exatamente a seção `#proposito` do `index.html` com os dois cards e os textos existentes. Remover o `id="proposito"` pois aqui não é âncora.
