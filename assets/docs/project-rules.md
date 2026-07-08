@@ -11,7 +11,7 @@ A **Tato Clínica** (nome formal: Clínica Tato Tecnologia Assistiva Terapia Ocu
 O foco principal é o **neurodesenvolvimento** — atendimento a crianças, adolescentes e adultos com condições como autismo (TEA), TDAH, dificuldades de aprendizagem, atrasos de desenvolvimento, entre outros. O atendimento é humanizado, interdisciplinar e baseado em evidências científicas.
 
 **CNPJ:** 24.986.228/0001-60
-**Telefone:** (14) 3213-9611
+**Telefone:** (14) 3313-9611
 **WhatsApp:** (14) 99102-7820 → `https://wa.me/5514991027820`
 **Instagram e Facebook:** @tatoclinica
 **Redes:** `https://instagram.com/tatoclinica` · `https://facebook.com/tatoclinica`
@@ -25,6 +25,7 @@ O foco principal é o **neurodesenvolvimento** — atendimento a crianças, adol
 | Sandra Furquim | Musicoterapeuta | — | Saúde mental: ansiedade, depressão e estresse · TEA/TDAH/Síndrome de Down · estimulação cognitiva em idosos · reabilitação em atrasos do desenvolvimento infantil · apoio em dificuldades sensoriais, motoras e de linguagem · ABA para autismo · música e cognição · educação especial · neuropsicopedagogia · arteterapia · psicanálise |
 | Mariana Alcantara | Terapeuta Ocupacional | — | TEA · TDAH · Síndrome de Down · atrasos neuropsicomotores · dificuldades sensoriais, motoras e cognitivas · estimulação infantil · integração sensorial · AVDs · coordenação motora · funções executivas · autonomia · orientação familiar |
 | Diego Lima | Terapeuta Ocupacional | — | UFSCar · Integração Sensorial de Ayres · ABA · Bobath · TEA · TDAH · paralisia cerebral · Síndrome de Down · avaliação ocupacional · integração sensorial · orientação familiar |
+| Rosemari Colombo | Terapeuta Ocupacional | — | avaliação funcional · órteses em termoplástico · adequação postural para cadeiras de rodas · meios auxiliares adaptados · tecnologia assistiva · autonomia e qualidade de vida · atendimento humanizado |
 | Caroline Zucari | Fonoaudióloga | — | Mestre em Processos e Distúrbios da Comunicação · atraso de linguagem · transtornos de fala · TDAH · aprendizagem · leitura e escrita · consciência fonológica · avaliação fonoaudiológica · terapia de linguagem · orientação familiar |
 | Fernanda F. Monteiro | Fonoaudióloga | — | Transtorno motor oral · motricidade orofacial · disfagia · TEA · atraso de linguagem · transtornos de fala · PROFFI · CAA · bandagem elástica · terapia ABA · Terapia ReST |
 | Amanda Lacerda | Neuropsicopedagoga | — | TDAH · TEA · dislexia · discalculia · disgrafia · transtornos globais do desenvolvimento · avaliação neuropsicopedagógica · funções executivas · atenção e memória · plano de intervenção |
@@ -99,6 +100,8 @@ tato-clinica/
 │       ├── mariana-alcantara-equipe-tatoclinica.jpg
 │       ├── diego-lima-equipe-tatoclinica.webp
 │       ├── diego-lima-equipe-tatoclinica.jpg
+│       ├── rosemari-colombo-equipe-tatoclinica.webp
+│       ├── rosemari-colombo-equipe-tatoclinica.jpg
 │       ├── caroline-zucari-equipe-tatoclinica.webp
 │       ├── caroline-zucari-equipe-tatoclinica.jpg
 │       ├── fernanda-monteiro-equipe-tatoclinica.webp
